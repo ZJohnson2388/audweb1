@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "aud_web",
+			"path": "."
+		},
+		{
+			"name": "ab_img",
+			"path": "/Users/zacheryjohnson/Desktop/ab_img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aud_web"
+	}
+}
